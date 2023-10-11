@@ -15,7 +15,7 @@ Online resources consulted:
 
 def add2():
     ### Replace None with 2 + 2 in the next line.
-    result = None
+    result = 2 +2
 
     ### Do not modify the next line.
     return result
